@@ -1,3 +1,6 @@
+# Description
+This is a university project. It's a library site, containing a list of books, a gallery and a contact page with a map.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
